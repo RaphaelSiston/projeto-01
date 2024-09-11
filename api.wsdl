@@ -185,4 +185,4 @@ parameters:
     in: path
     description: Format - int32.
     required: true
-    type: integer
+    type: integers
